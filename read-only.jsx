@@ -16,6 +16,3 @@ app.addEventListener('afterOpen', function() {
       alert("WARNING: This document is Read-Only!");
    }
 });
-
-
-//https://stackoverflow.com/questions/23255581/need-indesign-script-to-run-on-file-open
